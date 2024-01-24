@@ -3,11 +3,8 @@
 
 <div align="center">
 🔭 I’m currently working in **FinTech & Health Care**
-  
 🌱 I’m currently learning **every new technology**
-
 👯 I’m looking to collaborate on **Open Source Project**
-
 🤝 I was work with HR Tech and Operation Tech **for 5 Years**
 
 </div>
