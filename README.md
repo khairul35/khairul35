@@ -2,15 +2,14 @@
 <h3 align="center">A passionate full stack developer from Kuala Lumpur</h3>
 
 <div align="center">
-- 🔭 I’m currently working in **FinTech & Health Care**
+🔭 I’m currently working in **FinTech & Health Care**
 
-- 🌱 I’m currently learning **every new technology**
+🌱 I’m currently learning **every new technology**
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I was work with HR Tech and Operation Tech **for 5 Years**
+🤝 I was work with HR Tech and Operation Tech **for 5 Years**
 
-- 💬 Ask me about **vue and nest**
 </div>
 <br /><br /> <br />
 <h3 align="left">Connect with me:</h3>
