@@ -21,7 +21,7 @@ A **SOFTWARE ENGINEER**  🚀.
  
 
 **About Me!**
-- 🔭 I’m currently working on FinTech and Health Care and was work in HR Tech for 5 Years
+- 🔭 I’m currently working on FinTech and Health Care and was work in HR Tech & Operation Tech for 5 Years
 - 🤔 My interest lies in full stack engineering.
 - 💬 Learning a lot of latest tech!
 - 📫 Email me at [khairulhabib4919@gmail.com](mailto:khairulhabib4919@gmail.com).
