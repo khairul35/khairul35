@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khairul</h1>
 <h3 align="center">A passionate full stack developer from Kuala Lumpur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khairul35&label=Profile%20views&color=0e75b6&style=flat" alt="khairul35" /> </p>
-
 - 🔭 I’m currently working in **FinTech & Health Care**
 
 - 🌱 I’m currently learning **every new technology**
@@ -12,7 +10,7 @@
 - 🤝 I was work with HR Tech and Operation Tech **for 5 Years**
 
 - 💬 Ask me about **vue and nest**
-
+<br /><br /> <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khairul-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khairul-habib" height="30" width="40" /></a>
