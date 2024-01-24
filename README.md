@@ -3,7 +3,7 @@
 
 <div align="center">
 🔭 I’m currently working in **FinTech & Health Care**
-
+  
 🌱 I’m currently learning **every new technology**
 
 👯 I’m looking to collaborate on **Open Source Project**
