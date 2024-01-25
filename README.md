@@ -5,7 +5,7 @@
 <p>🔭 I’m currently working in **FinTech & Health Care**</p>
 <p>🌱 I’m currently learning **every new technology**</p>
 <p>👯 I’m looking to collaborate on **Open Source Project**</p>
-<p>🤝 I was work with HR Tech and Operation Tech **for 5 Years**</p>
+<p>🤝 I was in with HR Tech and Operation Tech **for 5 Years**</p>
 
 </div>
 <br /><br /> <br />
