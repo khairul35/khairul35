@@ -6,7 +6,14 @@
 <p>🌱 I’m currently learning **every new technology**</p>
 <p>👯 I’m looking to collaborate on **Open Source Project**</p>
 <p>🤝 I was working with HR Tech and Operation Tech **for 5 Years**</p>
+</div>
 
+<div>
+  <h1>Pass Projects:</h1>
+  <p>🤝 <a href="portal.collarwork.io">portal.collarwork.io</a></p>
+  <p>🤝 <a href="https://hauzportal.com">hauzportal.com</a></p>
+  <p>🤝 <a href="https://portal.hauz.com.my">portal.hauz.com.my</a></p>
+  <p>🤝 <a href="https://partners.hauz.com.my">partners.hauz.com.my</a></p>
 </div>
 <br /><br /> <br />
 <h3 align="left">Connect with me:</h3>
