@@ -10,7 +10,7 @@
 
 <div>
   <h1>Pass Projects:</h1>
-  <p>🤝 <a href="portal.collarwork.io">portal.collarwork.io</a></p>
+  <p>🤝 <a href="https://portal.collarwork.io">portal.collarwork.io</a></p>
   <p>🤝 <a href="https://hauzportal.com">hauzportal.com</a></p>
   <p>🤝 <a href="https://portal.hauz.com.my">portal.hauz.com.my</a></p>
   <p>🤝 <a href="https://partners.hauz.com.my">partners.hauz.com.my</a></p>
