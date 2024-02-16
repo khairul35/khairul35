@@ -21,9 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khairul35&show_icons=true&locale=en&layout=compact" alt="khairul35" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khairul35&show_icons=true&locale=en" alt="khairul35" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairul35&" alt="khairul35" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairul35" alt="khairul35" /></a> </p>
